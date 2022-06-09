@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandidateTesting.KailonAlexandre", "CandidateTesting.KailonAlexandre.csproj", "{D80B9974-6092-47EA-BF4A-538B1E020F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateTesting.KailonAlexandre.Test", "..\CandidateTesting.KailonAlexandre.Test\CandidateTesting.KailonAlexandre.Test.csproj", "{AB1E536D-66E3-42A1-9D0C-8C6041320207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D80B9974-6092-47EA-BF4A-538B1E020F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80B9974-6092-47EA-BF4A-538B1E020F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80B9974-6092-47EA-BF4A-538B1E020F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80B9974-6092-47EA-BF4A-538B1E020F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1E536D-66E3-42A1-9D0C-8C6041320207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1E536D-66E3-42A1-9D0C-8C6041320207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1E536D-66E3-42A1-9D0C-8C6041320207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1E536D-66E3-42A1-9D0C-8C6041320207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D5420B3-CF0F-4843-AB32-607B2E6B2A40}
+	EndGlobalSection
+EndGlobal

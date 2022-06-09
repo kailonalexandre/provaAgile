@@ -1,0 +1,15 @@
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\bin\Release\net6.0\CandidateTesting.KailonAlexandre.exe
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\bin\Release\net6.0\CandidateTesting.KailonAlexandre.deps.json
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\bin\Release\net6.0\CandidateTesting.KailonAlexandre.runtimeconfig.json
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\bin\Release\net6.0\CandidateTesting.KailonAlexandre.dll
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\bin\Release\net6.0\CandidateTesting.KailonAlexandre.pdb
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\obj\Release\net6.0\CandidateTesting.KailonAlexandre.csproj.AssemblyReference.cache
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\obj\Release\net6.0\CandidateTesting.KailonAlexandre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\obj\Release\net6.0\CandidateTesting.KailonAlexandre.AssemblyInfoInputs.cache
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\obj\Release\net6.0\CandidateTesting.KailonAlexandre.AssemblyInfo.cs
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\obj\Release\net6.0\CandidateTesting.KailonAlexandre.csproj.CoreCompileInputs.cache
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\obj\Release\net6.0\CandidateTesting.KailonAlexandre.dll
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\obj\Release\net6.0\refint\CandidateTesting.KailonAlexandre.dll
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\obj\Release\net6.0\CandidateTesting.KailonAlexandre.pdb
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\obj\Release\net6.0\CandidateTesting.KailonAlexandre.genruntimeconfig.cache
+C:\Users\kailo\Desktop\ProvaAgile\CandidateTesting.KailonAlexandre\obj\Release\net6.0\ref\CandidateTesting.KailonAlexandre.dll
